@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="ee9cf146376223009c42ea4873990eb7" sys_domain="global" table="connection_attributes" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-24 15:25:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ba9cf146376223009c42ea4873990ec1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="connection_attributes" name="connection_attributes" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">ee9cf146376223009c42ea4873990eb7</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="connection_attributes" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">e69cf146376223009c42ea4873990ebe</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-24 15:25:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-24 15:25:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7a9cf146376223009c42ea4873990ec4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="connection_attributes" name="connection_attributes" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">ee9cf146376223009c42ea4873990eb7</sys_ui_form>
+            <sys_ui_section caption="Reference Specification" display_value="Reference Specification" name="connection_attributes" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">be9cf146376223009c42ea4873990ec1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-24 15:25:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-24 15:25:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>629cf146376223009c42ea4873990ebb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="connection_attributes" name="connection_attributes" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">ee9cf146376223009c42ea4873990eb7</sys_ui_form>
+            <sys_ui_section caption="Choice List Specification" display_value="Choice List Specification" name="connection_attributes" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">2e9cf146376223009c42ea4873990eb9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-24 15:25:22</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-24 15:25:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ea9cf146376223009c42ea4873990ebc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="connection_attributes" name="connection_attributes" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">ee9cf146376223009c42ea4873990eb7</sys_ui_form>
+            <sys_ui_section caption="Dependent Field" display_value="Dependent Field" name="connection_attributes" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">669cf146376223009c42ea4873990ebb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-24 15:25:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-24 15:25:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e29cf146376223009c42ea4873990ebe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="connection_attributes" name="connection_attributes" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">ee9cf146376223009c42ea4873990eb7</sys_ui_form>
+            <sys_ui_section caption="Calculated Value" display_value="Calculated Value" name="connection_attributes" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">ee9cf146376223009c42ea4873990ebc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-24 15:25:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-24 15:25:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b29cf146376223009c42ea4873990ec6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="connection_attributes" name="connection_attributes" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">ee9cf146376223009c42ea4873990eb7</sys_ui_form>
+            <sys_ui_section caption="Default Value" display_value="Default Value" name="connection_attributes" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">7e9cf146376223009c42ea4873990ec4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-24 15:25:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>connection_attributes</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-24 15:25:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ee9cf146376223009c42ea4873990eb7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>connection_attributes</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IPInfo Spoke" source="x_285632_ipinfo_sp">2125d1c1376223009c42ea4873990e3a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPInfo Spoke">2125d1c1376223009c42ea4873990e3a</sys_scope>
+            <sys_update_name>sys_ui_form_sections_ee9cf146376223009c42ea4873990eb7</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-24 15:25:22</sys_updated_on>
+            <sys_user/>
+            <view display_value="Advanced" name="advanced">7966be310a0a0b8c00bd504090503227</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
